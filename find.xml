@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'OpenVideoCall_Android'" />
     <option name="defaultScopeName" value="Project 'OpenVideoCall_Android'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'OpenVideoCall_Android'" />
   </component>
 </application>
