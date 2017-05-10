@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'OpenVideoCall_Android'" />
-    <option name="defaultScopeName" value="Project 'OpenVideoCall_Android'" />
-    <option name="SEARCH_SCOPE" value="Project 'OpenVideoCall_Android'" />
+    <option name="customScope" value="Project 'WatchWidget'" />
+    <option name="defaultScopeName" value="Project 'WatchWidget'" />
+    <option name="SEARCH_SCOPE" value="Project 'WatchWidget'" />
   </component>
 </application>
