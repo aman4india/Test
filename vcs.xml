@@ -26,8 +26,12 @@
           <option name="url" value="https://amanexousia@bitbucket.org/amanexousia/sura-school-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://amanexousia@bitbucket.org/amanexousia/ngoapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AmanProject\SuraSchoolTest\SuraSchoolTest\SuraSchoolTest" />
+    <option name="cloneParentDir" value="D:\AmanProject\NGO" />
   </component>
 </application>
