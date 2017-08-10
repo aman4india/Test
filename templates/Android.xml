@@ -1,0 +1,10 @@
+<templateSet group="Android">
+  <template name="sbr" value="&quot;$stringVar$&quot;" description="Surround text with braces" toReformat="false" toShortenFQNames="true">
+    <variable name="stringVar" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+</templateSet>
